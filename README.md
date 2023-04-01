@@ -18,3 +18,7 @@ I have been a Formula 1 fan since the early 2010s. It has been my passion to com
 ![Jeddah GP 2023 Points Finisher Race Pace](https://user-images.githubusercontent.com/93969104/229264023-756b8012-757c-4830-a38e-2b993ed498db.png)
 
 ![Jeddah GP 2023 Tyre Strategy](https://user-images.githubusercontent.com/93969104/229264028-50740254-c794-4e94-a059-c6b86649baf2.png)
+
+**Australian GP**
+
+![2023 Australian GP Qualifying](https://user-images.githubusercontent.com/93969104/229273256-c8ca724b-8e83-4a81-80d8-434f191302ff.png)
