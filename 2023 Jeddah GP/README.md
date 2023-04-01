@@ -23,4 +23,4 @@ Key Takeaways From The 2023 Saudi Arabian GP Main Race:
 3. George Russell has an amazing race pace in the last 10 laps.
 4. Lewis Hamilton is the victim of a bad strategy for going to the Hards for his first stint.
 5. The Ferrari team was making its usual mistakes, which ended up preventing it from maximizing the team's results.
-6. Alpine double points after a frustrating first race
+6. Alpine double points after a frustrating first race.
