@@ -10,3 +10,11 @@ I have been a Formula 1 fan since the early 2010s. It has been my passion to com
 ![Bahrain 2023 Point Finisher Race Pace](https://user-images.githubusercontent.com/93969104/229261986-16bce849-709d-4789-950c-b28d54ba8027.png)
 
 ![Bahrain GP 2023 Tyre Strategy](https://user-images.githubusercontent.com/93969104/229262004-27d7c10e-7ce9-424d-9681-434a3a1c32f3.png)
+
+**Saudi Arabian GP**
+
+![Jeddah 2023 GP Qualifying](https://user-images.githubusercontent.com/93969104/229264020-ceb4e2c9-94e5-486f-b154-d77a33d9e984.png)
+
+![Jeddah GP 2023 Points Finisher Race Pace](https://user-images.githubusercontent.com/93969104/229264023-756b8012-757c-4830-a38e-2b993ed498db.png)
+
+![Jeddah GP 2023 Tyre Strategy](https://user-images.githubusercontent.com/93969104/229264028-50740254-c794-4e94-a059-c6b86649baf2.png)
