@@ -24,3 +24,5 @@ I have been a Formula 1 fan since the early 2010s. It has been my passion to com
 ![2023 Australian GP Qualifying](https://user-images.githubusercontent.com/93969104/229273256-c8ca724b-8e83-4a81-80d8-434f191302ff.png)
 
 ![Verstappen Speed Heatmap](https://user-images.githubusercontent.com/93969104/229273595-4cadcbf3-ef2e-43a1-baaa-477979511d13.png)
+
+![2023 Australian GP Points Finisher Race Pace](https://user-images.githubusercontent.com/93969104/229345232-32dd5ef0-67ef-4f61-a077-48f54ec99a44.png)
