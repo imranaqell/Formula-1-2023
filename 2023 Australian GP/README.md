@@ -16,7 +16,9 @@ Key Takeaways From The 2023 Australian GP Qualifying:
 
 **Main Race**
 
-![2023 Australian GP Points Finisher Race Pace](https://user-images.githubusercontent.com/93969104/229345641-bdce2609-e8a4-46a5-b631-02c791503ed5.png)
+![2023 Australian GP Points Finisher Race Pace](https://user-images.githubusercontent.com/93969104/229364738-ccb6761a-4933-477f-b4ad-eed76843a016.png)
+
+![2023 Australian GP Tyre Strategy](https://user-images.githubusercontent.com/93969104/229364745-080ac7a9-0706-45d0-bad3-69b66918d388.png)
 
 Key Takeaways From The 2023 Australian GP Main Race:
 
