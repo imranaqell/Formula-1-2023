@@ -62,3 +62,8 @@ I have been a Formula 1 fan since the early 2010s. It has been my passion to com
 ![MV1 vs CL16 2023 Monaco GP Qualifying](https://github.com/imranaqell/Formula-1-2023/assets/93969104/d049ccea-ddca-4a6c-8285-56cbfd85c19f)
 
 ![FA14 vs CL16 2023 Monaco GP Qualifying](https://github.com/imranaqell/Formula-1-2023/assets/93969104/ec8e21f1-ee82-4cd8-ac24-356c901ce357)
+
+![2023 Monaco GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/cbbb74aa-84e5-4701-ace2-59136bcab9fd)
+
+![2023 Monaco GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/71644eb0-5cc5-41db-a0af-713acdb44ef9)
+
