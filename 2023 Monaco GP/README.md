@@ -17,6 +17,9 @@ Key Takeaways From The 2023 Monaco GP Qualifying:
 5. Sergio Perez's blunder costs him a front-row lockout for the Red Bull team.
 
 **Race**
+![2023 Monaco GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/ef6a2e02-f301-444d-af64-5b198ec8c96e)
+
+![2023 Monaco GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/582c22ed-8c2e-4d9c-a70b-c2fe768db615)
 
 Key Takeaways From The 2023 Monaco GP Main Race:
 1. Max Verstappen, Yuki Tsunoda, Lando Norris, and De Vries were able to extend their medium tyre stint without losing precious time.
