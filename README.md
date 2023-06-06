@@ -67,3 +67,12 @@ I have been a Formula 1 fan since the early 2010s. It has been my passion to com
 
 ![2023 Monaco GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/71644eb0-5cc5-41db-a0af-713acdb44ef9)
 
+[**Spanish GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Spanish%20GP)
+
+![Spanish GP 2023 Max Verstappen vs Carlos Sainz](https://github.com/imranaqell/Formula-1-2023/assets/93969104/251c3e73-e41b-4f7c-b746-f8a666068068)
+
+![2023 Spanish GP Qualifying - VER](https://github.com/imranaqell/Formula-1-2023/assets/93969104/d0429583-ee32-4acd-b822-8052faf48753)
+
+![2023 Spanish GP Points Finisher Race Pace Distribution](https://github.com/imranaqell/Formula-1-2023/assets/93969104/dae79710-5c4e-4d54-b7d3-4bd01f9faae1)
+
+![2023 Spanish GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/cab1ecf6-3cec-4b8a-b849-566b6d64ab6e)
