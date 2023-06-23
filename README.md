@@ -76,3 +76,13 @@ I have been a Formula 1 fan since the early 2010s. It has been my passion to com
 ![2023 Spanish GP Points Finisher Race Pace Distribution](https://github.com/imranaqell/Formula-1-2023/assets/93969104/dae79710-5c4e-4d54-b7d3-4bd01f9faae1)
 
 ![2023 Spanish GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/cab1ecf6-3cec-4b8a-b849-566b6d64ab6e)
+
+[**2023 Canadian GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Canadian%20GP)
+
+![Canadian GP 2023 - Max Verstappen vs Albon on Softs](https://github.com/imranaqell/Formula-1-2023/assets/93969104/b14cfe94-1ad3-4f05-8e9e-62c152c78b13)
+
+![2023 Canadian GP Qualifying - ALB](https://github.com/imranaqell/Formula-1-2023/assets/93969104/655b137c-c2e3-4a45-a0ce-2610277ddc50)
+
+![2023 Canadian GP Points Finisher Race Pace Distribution](https://github.com/imranaqell/Formula-1-2023/assets/93969104/e37a3a32-7529-4567-bec8-e22e863ae97a)
+
+![2023 Canadian GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/238bd189-902e-407f-9836-28b9082527fc)
