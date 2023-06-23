@@ -83,6 +83,6 @@ I have been a Formula 1 fan since the early 2010s. It has been my passion to com
 
 ![2023 Canadian GP Qualifying - ALB](https://github.com/imranaqell/Formula-1-2023/assets/93969104/655b137c-c2e3-4a45-a0ce-2610277ddc50)
 
-![2023 Canadian GP Points Finisher Race Pace Distribution](https://github.com/imranaqell/Formula-1-2023/assets/93969104/e37a3a32-7529-4567-bec8-e22e863ae97a)
+![2023 Canadian GP Points Finisher Race Pace Distribution](https://github.com/imranaqell/Formula-1-2023/assets/93969104/28769420-a216-406f-99e7-c6a3fc471cf4)
 
 ![2023 Canadian GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/238bd189-902e-407f-9836-28b9082527fc)
