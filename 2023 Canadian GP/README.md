@@ -20,7 +20,7 @@ Key Takeaways From The 2023 Canadian GP Qualifying:
 
 **Main Race**
 
-![2023 Canadian GP Points Finisher Race Pace Distribution](https://github.com/imranaqell/Formula-1-2023/assets/93969104/c10e4a6e-2a90-4330-a6d3-4a40cf401b32)
+![2023 Canadian GP Points Finisher Race Pace Distribution](https://github.com/imranaqell/Formula-1-2023/assets/93969104/7fea176e-e62e-4872-8694-c531717b5981)
 
 ![2023 Canadian GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/d718b86b-c082-40f2-8f93-cf9ba2040ede)
 
