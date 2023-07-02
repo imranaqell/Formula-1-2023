@@ -92,3 +92,13 @@ I have been a Formula 1 fan since the early 2010s. It has been my passion to com
 ![Austrian GP 2023 Qualifying (MV1 vs CL16)](https://github.com/imranaqell/Formula-1-2023/assets/93969104/4b9a7f2f-7aff-4593-8806-49a89dd477f8)
 
 ![2023 Austrian GP Pole Position Speed Heatmap](https://github.com/imranaqell/Formula-1-2023/assets/93969104/90f377d7-6248-497a-be86-6c3c70beb357)
+
+![Austrian GP 2023 Sprint Qualifying (MV1 vs SP11)](https://github.com/imranaqell/Formula-1-2023/assets/93969104/2f87b0a9-3a5b-48f1-a9b8-43508050b8ef)
+
+![2023 Austrian GP Sprint Race Pace Analysis](https://github.com/imranaqell/Formula-1-2023/assets/93969104/97c1960b-281d-4da5-be6c-ae9f4b643517)
+
+![2023 Austrian GP Sprint Race Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/25a2de1a-5a14-4b24-97e2-ba14912995d8)
+
+![2023 Austrian GP Points Finisher Race Pace Analysis](https://github.com/imranaqell/Formula-1-2023/assets/93969104/54f17081-a89e-421b-9c4f-b1d3b6fb71c4)
+
+![2023 Austrian GP Race Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/b26b9fe9-9b07-49b3-9ce8-408d85d576a9)
