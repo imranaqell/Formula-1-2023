@@ -19,7 +19,13 @@ Key Takeaways From the Qualifying session:
 5. Williams deserves recognition for their notable progress in enhancing their car's performance within a short timeframe.
 
 6. Aston Martin's car performance seems to be regressing with each race, raising concerns about their competitiveness.
- 
+
+**Race**
+
+![2023 British GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/405d6515-a296-4ceb-90fb-327007ded7df)
+
+![2023 British GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/df943bf4-ef2e-46f0-925d-d7a412a9f8b6)
+
 Key Takeaways from the Main Race:
 
 1. Max Verstappen demonstrates his unrivaled dominance, securing another flawless victory.
