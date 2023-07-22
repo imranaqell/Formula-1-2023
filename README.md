@@ -117,3 +117,9 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 British GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/a9eff53d-8e48-49ba-98af-0b6f80ccb31d)
 
 ![2023 British GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/ad3c977d-df76-483f-a225-ad754f1be15a)
+
+[**Hungarian GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Hungarian%20GP)
+
+![Hungarian GP 2023 Qualifying (LH44 vs MV1)](https://github.com/imranaqell/Formula-1-2023/assets/93969104/06174730-22dc-4c56-ad6a-89f17f07b7bc)
+
+![Hungarian GP 2023 Pole Position Speed Heatmap](https://github.com/imranaqell/Formula-1-2023/assets/93969104/fe02ffb8-4f3a-4653-b050-7d4f57c36704)
