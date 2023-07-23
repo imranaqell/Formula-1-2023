@@ -21,3 +21,23 @@ Key Takeaways From The 2023 Hungarian GP Qualifying:
 6. George Russell's elimination in Q1 can be attributed to the failure of the gentleman's agreement.
 
 7. Daniel Ricciardo performed admirably, outpacing his teammate Yuki Tsunoda during his debut weekend in the Alpha Tauri car.
+
+**Main Race**
+
+Key Takeaways From The 2023 Hungarian GP Main Race:
+
+1. Max Verstappen secured victory in the 2023 Hungarian Grand Prix with a commanding lead of half a second.
+
+2. Lando Norris demonstrated extraordinary determination, pushing his car to its limits in the latter stages of the race to outperform Sergio Perez in his RB19.
+
+3. During the initial stint, both Mclaren drivers showcased competitive pace, closely matching Max Verstappen. However, after switching to Hard compound tires during their pit stops, their pace significantly dropped.
+
+4. Lewis Hamilton managed to increase his speed towards the end of the race, narrowing the gap between him and Sergio Perez, who finished third.
+
+5. Oscar Piastri's performance was noteworthy, securing a strong 5th position in the race.
+
+6. Ferrari's overall performance, particularly their pit stops and race pace, requires improvement.
+
+7. Red Bull achieved a remarkable feat by winning 12 consecutive races, starting from the Abu Dhabi Grand Prix in 2022 until the Hungarian Grand Prix in 2023, setting a new benchmark.
+
+8. With his victory in this race, Max Verstappen notched his 7th consecutive win, 44th career race win, and 88th podium finish in his Formula 1 career.
