@@ -24,6 +24,10 @@ Key Takeaways From The 2023 Hungarian GP Qualifying:
 
 **Main Race**
 
+![2023 Hungarian GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/c0479477-7a09-44c6-b9e0-ad0e6f976613)
+
+![2023 Hungarian GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/3ec629f8-c087-4cf6-9558-2b3591f36eee)
+
 Key Takeaways From The 2023 Hungarian GP Main Race:
 
 1. Max Verstappen secured victory in the 2023 Hungarian Grand Prix with a commanding lead of half a second.
