@@ -127,3 +127,9 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Hungarian GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/1592151c-495b-49bc-ad09-a84f8cac5e6a)
 
 ![2023 Hungarian GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/60cdf6ac-7072-432e-981d-401d0b4d3b41)
+
+[**Belgian GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Belgian%20GP)
+
+![Belgian GP 2023 Qualifying - MV1 vs CL16](https://github.com/imranaqell/Formula-1-2023/assets/93969104/6ba26ca0-b35a-4904-8005-736f5a264e3d)
+
+![2023 Belgian GP Pole Position Heatmap](https://github.com/imranaqell/Formula-1-2023/assets/93969104/07c462fa-ed40-456e-8952-0a5374c72e21)
