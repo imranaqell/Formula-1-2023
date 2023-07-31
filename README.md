@@ -133,3 +133,13 @@ I invite you to embark on an immersive journey through this repository, where my
 ![Belgian GP 2023 Qualifying - MV1 vs CL16](https://github.com/imranaqell/Formula-1-2023/assets/93969104/6ba26ca0-b35a-4904-8005-736f5a264e3d)
 
 ![2023 Belgian GP Pole Position Heatmap](https://github.com/imranaqell/Formula-1-2023/assets/93969104/07c462fa-ed40-456e-8952-0a5374c72e21)
+
+![Belgian GP 2023 Sprint Qualifying - MV1 vs OP81](https://github.com/imranaqell/Formula-1-2023/assets/93969104/50990d2e-fbc6-4944-8e87-0c2199d573e1)
+
+![2023 Belgian GP Sprint Race Pace Analysis](https://github.com/imranaqell/Formula-1-2023/assets/93969104/5eb18997-46da-4a87-853e-a75cbf1f0051)
+
+![2023 Belgian GP Sprint Race Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/1d2fa2b6-3ef8-43dc-ae80-c8df2156a998)
+
+![2023 Belgian GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/279901ee-78f5-476f-9d25-2c11d7a14db0)
+
+![2023 Belgian GP Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/2690e29e-719d-4fd8-8969-19acc3c67a20)
