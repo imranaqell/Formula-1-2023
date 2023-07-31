@@ -24,4 +24,74 @@ Key Takeaways from the Qualifying session:
 
 **Sprint**
 
+![Belgian GP 2023 Sprint Qualifying - MV1 vs OP81](https://github.com/imranaqell/Formula-1-2023/assets/93969104/907e7b45-d4b2-40e2-af67-5e70618a98b1)
+
+![2023 Belgian GP Sprint Race Pace Analysis](https://github.com/imranaqell/Formula-1-2023/assets/93969104/961517b1-1906-4111-9cf5-e83f703edb6c)
+
+![2023 Belgian GP Sprint Race Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/a03e3599-31ac-4a5d-835b-834ade039a04)
+
+Key Takeaways from the Sprint session:
+
+1. Oscar Piastri is recognized as the rookie of the year due to his exceptional performance in qualifying, where he came just fractions away (0.011s) from the highly skilled Max Verstappen.
+
+2. Sergio Perez faced unfortunate circumstances during the sprint shootout, as he was unable to set a lap in the conditions where the track favored faster times.
+
+3. Meanwhile, in the sprint race, Max Verstappen skillfully utilized his RB19 machinery to its fullest potential, finishing well ahead of his nearest competitor.
+
+4. During this particular race, spectators had the privilege of witnessing Oscar Piastri lead a Formula 1 race for the very first time.
+
+5. Lewis Hamilton's penalty was deemed undeserved, as it should have been classified as a racing incident rather than an intentional violation.
+
+6. Pierre Gasly emerged as one of the biggest winners by strategically pitting on the first lap, which allowed him to gain a significant advantage over the other competitors, ultimately leading to his podium finish.
+
 **Main Race**
+
+![2023 Belgian GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/3abb03b8-5446-44ab-8325-568c28f6a5f4)
+
+![2023 Belgian GP Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/edfd70bd-240b-44d2-bf72-1d61bb69fa2f)
+
+Key Takeaways from the Race session:
+
+1. Pre-Race Penalties Impact Haas Duo:
+   
+Kevin Magnussen and Nico Hulkenberg faced the consequences of pre-race penalties, resulting in their finishes at 15th and 18th positions, respectively.
+
+2. First-Corner Clash Leads to Retirements:
+
+The race witnessed an early collision between Oscar Piastri and Carlos Sainz, leading to both drivers retiring. Piastri clipped the inside wall at La Source, while Sainz nursed damage before retiring.
+
+3. Verstappen Celebrates 10th Victory:
+
+After the race, Max Verstappen joyfully celebrated his 10th win of the season, inching closer to Sebastian Vettel's record of successive victories.
+
+4. Verstappen Extends Championship Lead:
+
+With this impressive victory, Verstappen's lead in the drivers' standings extended to 125 points over his teammate Sergio Perez, strengthening his bid for a third world championship title.
+
+5. Unpredictable Weather Adds Drama:
+
+The race day was characterized by unpredictable weather conditions, keeping the F1 paddock on its toes and setting the stage for potential weather-related twists.
+
+6. Grid Updates Influence Starting Positions:
+
+Grid updates caused Max Verstappen to drop from pole position to P6, while Magnussen and Hulkenberg faced starting positions impacted by penalties for impeding and power unit changes, respectively.
+
+7. Tire Choices Play a Strategic Role:
+
+As the race began, drivers opted for a mix of soft and medium compounds among the top 10 starters, introducing diverse strategies into the race.
+
+8. Verstappen's Brilliant Overtake:
+
+Max Verstappen showcased his exceptional driving skills by overtaking Charles Leclerc on the Kemmel Straight, executing a stunning move around the outside at Les Combes and establishing a Red Bull one-two with Perez close behind.
+
+9. Challenging Conditions Affect Pit Stops:
+
+The ever-changing weather and tire degradation presented challenges for drivers and teams in planning their pit stops strategically.
+
+10. Verstappen's Dominant Victory:
+
+Max Verstappen displayed dominance throughout the race, skillfully managing tire wear, and securing a commanding victory with a significant 22-second lead over Perez at the finish line.
+
+
+
+
