@@ -10,7 +10,7 @@ Key Takeaways From The 2023 Dutch GP Qualifying:
 
 1. Max Verstappen secured his third consecutive pole position at the Dutch Grand Prix in a crash-filled qualifying session.
 
-2. Verstappen's final lap time of 1m 10.567s was a standout, putting him half a second ahead of his nearest rivals.
+2. Verstappen's final lap time of 1:10:567 was a standout, putting him half a second ahead of his nearest rivals.
 
 3. Lando Norris from McLaren and George Russell from Mercedes claimed the second and third positions on the grid.
 
