@@ -28,6 +28,10 @@ Key Takeaways From The 2023 Dutch GP Qualifying:
 
 **Main Race**
 
+![2023 Dutch GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/6c952e46-781d-4c40-9b81-a7cd9341148c)
+
+![2023 Dutch GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/9efbe76f-3521-408c-81dc-f65f21bd4d15)
+
 Key Takeaways From The 2023 Dutch GP Main Race:
 
 1. Max Verstappen won the Dutch Grand Prix for the third consecutive year.
