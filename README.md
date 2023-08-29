@@ -149,3 +149,7 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Dutch GP Qualifying (MV1 vs LN4)](https://github.com/imranaqell/Formula-1-2023/assets/93969104/de0c9446-d2d5-4a6c-afe7-46604fd7f91e)
 
 ![2023 Fastest Dutch GP Qualifying Lap Heatmap](https://github.com/imranaqell/Formula-1-2023/assets/93969104/eff0bece-0a58-4438-936b-2dcd7d17e415)
+
+![2023 Dutch GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/f1efe352-e82f-444a-b592-7db5b8d9d4e5)
+
+![2023 Dutch GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/45749db4-241f-4292-a269-5d099284ef9f)
