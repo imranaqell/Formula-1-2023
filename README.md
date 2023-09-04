@@ -153,3 +153,17 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Dutch GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/f1efe352-e82f-444a-b592-7db5b8d9d4e5)
 
 ![2023 Dutch GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/45749db4-241f-4292-a269-5d099284ef9f)
+
+[**Italian GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Italian%20GP)
+
+![Italian GP 2023 Qualifying Carlos Sainz vs Max Verstappen](https://github.com/imranaqell/Formula-1-2023/assets/93969104/57ac74f3-f24d-4102-94f8-fe053ef64080)
+
+![Italian GP 2023 Qualifying Carlos Sainz vs Charles Leclerc](https://github.com/imranaqell/Formula-1-2023/assets/93969104/bbd864dd-ac1e-401a-91a1-f27d38d43c9a)
+
+![Italian GP 2023 Qualifying Max Verstappen vs Charles Leclerc](https://github.com/imranaqell/Formula-1-2023/assets/93969104/19cb670b-456e-4580-931c-e820411d0302)
+
+![Italian GP 2023 Pole Position Speed Heatmap](https://github.com/imranaqell/Formula-1-2023/assets/93969104/1b9f473b-79c9-4999-ab44-d66878dc1af0)
+
+![2023 Italian GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/c72b65b1-896a-4588-b30f-fbab0fb05007)
+
+![2023 Italian GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/c8871e6c-8ce6-4a27-b2fd-1d33f596f467)
