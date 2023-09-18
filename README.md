@@ -167,3 +167,15 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Italian GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/c72b65b1-896a-4588-b30f-fbab0fb05007)
 
 ![2023 Italian GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/c8871e6c-8ce6-4a27-b2fd-1d33f596f467)
+
+[**Singapore GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Singapore%20GP)
+
+![Singapore GP 2023 - Carlos Sainz vs Charles Leclerc](https://github.com/imranaqell/Formula-1-2023/assets/93969104/408e3ece-7d2b-4e0d-ba8a-b24f2b80d52c)
+
+![Singapore GP 2023 - Carlos Sainz vs George Russell](https://github.com/imranaqell/Formula-1-2023/assets/93969104/2b121255-6b34-4b6a-be27-028a2c1e5f0a)
+
+![2023 Singapore GP Qualifying - SAI](https://github.com/imranaqell/Formula-1-2023/assets/93969104/5e1a244b-a7e5-4cad-9b16-c1eff2fbe8d9)
+
+![2023 Singapore GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/71d32db5-be39-479a-a729-96b2ef40d0c3)
+
+![2023 Singapore GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/c2165901-be5f-479a-bd96-ad7224c79e15)
