@@ -179,3 +179,15 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Singapore GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/71d32db5-be39-479a-a729-96b2ef40d0c3)
 
 ![2023 Singapore GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/c2165901-be5f-479a-bd96-ad7224c79e15)
+
+[**Japanese GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Japanese%20GP)
+
+![Japanese GP 2023 - Max Verstappen vs Oscar Piastri](https://github.com/imranaqell/Formula-1-2023/assets/93969104/15ae89f8-7420-4205-973f-c2d4311598ba)
+
+![Max Verstappen 2022 vs 2023 Pole Lap in Suzuka](https://github.com/imranaqell/Formula-1-2023/assets/93969104/de92cfeb-8b30-4805-b7de-b596457d3406)
+
+![2023 Japanese GP Qualifying - VER](https://github.com/imranaqell/Formula-1-2023/assets/93969104/59fdb51c-a75d-4f82-84e3-799ab31ef407)
+
+![2023 Japanese GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/9b080820-a515-4a5d-8182-d87aa0c73463)
+
+![2023 Japanese GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/3bf4a350-f905-4fc1-80ee-dd2b3c498b32)
