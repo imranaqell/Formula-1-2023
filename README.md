@@ -191,3 +191,13 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Japanese GP Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/9b080820-a515-4a5d-8182-d87aa0c73463)
 
 ![2023 Japanese GP Race Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/3bf4a350-f905-4fc1-80ee-dd2b3c498b32)
+
+[**Qatar GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Qatar%20GP)
+
+![2023 Qatar GP Qualifying - VER vs RUS](https://github.com/imranaqell/Formula-1-2023/assets/93969104/bf404152-1550-4295-a600-1be19d097936)
+
+![2023 Qatar GP Qualifying - Max Verstappen](https://github.com/imranaqell/Formula-1-2023/assets/93969104/0acd5c1c-e0e2-4861-b7ee-59ef55fc22f3)
+
+![2023 Qatar GP Sprint - Top 3 Sprint Shootout Analysis ](https://github.com/imranaqell/Formula-1-2023/assets/93969104/583704eb-ecf4-41ee-9df5-7a8e6d15730d)
+
+![2023 Qatar GP Sprint - Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/1e9fe3ce-0099-4c2a-b091-a09a2b984fb6)
