@@ -201,3 +201,7 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Qatar GP Sprint - Top 3 Sprint Shootout Analysis ](https://github.com/imranaqell/Formula-1-2023/assets/93969104/583704eb-ecf4-41ee-9df5-7a8e6d15730d)
 
 ![2023 Qatar GP Sprint - Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/1e9fe3ce-0099-4c2a-b091-a09a2b984fb6)
+
+![2023 Qatar GP Race - Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/67dc5723-9072-41d9-8008-4a104d6af4d4)
+
+![2023 Qatar GP Race - Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/cf51ab9b-06a5-447c-94f9-9e03b03bcdfd)
