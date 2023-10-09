@@ -44,3 +44,9 @@ Key Points from the Qualifying session:
 4. Lewis Hamilton's performance in the sprint proves that he is still one of the best on the current grid.
 
 5. At the end of the race, Leclerc and Stroll received a five-second time penalty for violating the track limits.
+
+**Main Race**
+
+![2023 Qatar GP Race - Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/ada274fe-8444-4258-a418-897600dd4a43)
+
+![2023 Qatar GP Race - Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/8f7056a0-b5ac-40d7-b663-bcc4b6459842)
