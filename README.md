@@ -205,3 +205,17 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Qatar GP Race - Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/67dc5723-9072-41d9-8008-4a104d6af4d4)
 
 ![2023 Qatar GP Race - Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/cf51ab9b-06a5-447c-94f9-9e03b03bcdfd)
+
+[**United States GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20United%20States%20GP)
+
+![2023 United States GP - LEC vs NOR vs HAM](https://github.com/imranaqell/Formula-1-2023/assets/93969104/68cd7382-a3c7-43b4-ac21-797c6d1ecfbd)
+
+![2023 United States GP - LEC](https://github.com/imranaqell/Formula-1-2023/assets/93969104/37dae60b-5473-4087-8e82-d06bcb81a92a)
+
+![2023 United States GP - 0 1s That Covers The Top 3](https://github.com/imranaqell/Formula-1-2023/assets/93969104/2d20cc85-e540-4664-953f-400ef354d4e9)
+
+![2023 United States GP - Sprint Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/56de6f92-e64d-40f7-b625-d19b56357eea)
+
+![2023 United States GP - Main Race Top 10 Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/7c218bb2-e966-4147-96f3-f1ce9c943b35)
+
+![2023 United States GP - Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/2a773614-9238-4a6d-a237-a3c1cd3187a9)
