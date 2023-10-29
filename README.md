@@ -219,3 +219,9 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 United States GP - Main Race Top 10 Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/7c218bb2-e966-4147-96f3-f1ce9c943b35)
 
 ![2023 United States GP - Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/2a773614-9238-4a6d-a237-a3c1cd3187a9)
+
+[**Mexico City GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Mexico%20City%20GP)
+
+![2023 Mexico City GP - LEC vs SAI vs VER](https://github.com/imranaqell/Formula-1-2023/assets/93969104/ee9451c7-7506-4d37-b66a-c317e4051a4b)
+
+![2023 Mexico City GP Qualifying - LEC](https://github.com/imranaqell/Formula-1-2023/assets/93969104/f94cab04-b5f4-435a-8354-a3533d541e5f)
