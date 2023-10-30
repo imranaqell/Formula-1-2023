@@ -225,3 +225,6 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Mexico City GP - LEC vs SAI vs VER](https://github.com/imranaqell/Formula-1-2023/assets/93969104/ee9451c7-7506-4d37-b66a-c317e4051a4b)
 
 ![2023 Mexico City GP Qualifying - LEC](https://github.com/imranaqell/Formula-1-2023/assets/93969104/f94cab04-b5f4-435a-8354-a3533d541e5f)
+
+![2023 Mexico City GP - Point Scorer Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/cbe02bb8-f662-4f70-94c5-eb70711c473d)
+
