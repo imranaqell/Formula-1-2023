@@ -22,6 +22,8 @@ Key Takeaways from the Qualifying session:
 
 ![2023 Mexico City GP - Point Scorer Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/0d904f62-4194-456f-a666-3912de55e815)
 
+![2023 Mexico City GP - Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/da8006ac-69eb-49ac-b4ce-c64558658c1f)
+
 Key Takeaways from the Main Race:
 
 1. Max Verstappen won the Mexico City GP with a comfortable lead of nearly a quarter of a second; his median lap was an astonishing 1:22:4.
