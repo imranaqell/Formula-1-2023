@@ -228,3 +228,4 @@ I invite you to embark on an immersive journey through this repository, where my
 
 ![2023 Mexico City GP - Point Scorer Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/cbe02bb8-f662-4f70-94c5-eb70711c473d)
 
+![2023 Mexico City GP - Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/07e6c722-a116-4c8b-88c9-99be2b418dc8)
