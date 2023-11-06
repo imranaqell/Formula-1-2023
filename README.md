@@ -229,3 +229,23 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Mexico City GP - Point Scorer Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/cbe02bb8-f662-4f70-94c5-eb70711c473d)
 
 ![2023 Mexico City GP - Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/07e6c722-a116-4c8b-88c9-99be2b418dc8)
+
+[**Brazil GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Brazil%20GP)
+
+![2023 Brazil GP Qualifying - Max Verstappen vs Charles Leclerc](https://github.com/imranaqell/Formula-1-2023/assets/93969104/412379be-a471-40e4-b56d-df3b80ba9ead)
+
+![2023 Brazil GP Qualifying - Lance Stroll vs Fernando Alonso](https://github.com/imranaqell/Formula-1-2023/assets/93969104/ca3b264b-88e0-4a8e-a307-1744d1e38a43)
+
+![2023 Brazil GP Qualifying - VER](https://github.com/imranaqell/Formula-1-2023/assets/93969104/9d47686c-8aed-45f1-8ae4-8b375a290000)
+
+![2023 Brazil GP Sprint Shootout - Lando Norris vs Max Verstappen](https://github.com/imranaqell/Formula-1-2023/assets/93969104/985d6ee0-b48e-426e-9934-8717a8aa2094)
+
+![2023 Brazil GP Sprint Shootout - Max Verstappen vs Sergio Perez](https://github.com/imranaqell/Formula-1-2023/assets/93969104/b1ef7213-528d-4795-b5dc-0464514f6ce2)
+
+![2023 Brazil GP Sprint Shootout - George Russell vs Lewis Hamilton](https://github.com/imranaqell/Formula-1-2023/assets/93969104/cce97ded-06a5-43ba-b153-ba07f082b4c3)
+
+![2023 Brazil GP Sprint Race - Point Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/4af20c41-fb7a-408e-adf3-e5bec5b656f3)
+
+![2023 Brazil GP Race - Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/e65c24ea-7fa1-4485-bdaf-b5884030de6c)
+
+![2023 Brazil GP Race - Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/26cc51b1-10d0-4aeb-b931-2fbff8208d1f)
