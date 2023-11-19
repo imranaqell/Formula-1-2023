@@ -249,3 +249,11 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Brazil GP Race - Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/e65c24ea-7fa1-4485-bdaf-b5884030de6c)
 
 ![2023 Brazil GP Race - Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/26cc51b1-10d0-4aeb-b931-2fbff8208d1f)
+
+[**Las Vegas GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Las%20Vegas%20GP)
+
+![2023 Las Vegas GP Qualifying - Charles Leclerc vs Carlos Sainz](https://github.com/imranaqell/Formula-1-2023/assets/93969104/585ba479-9c2c-41c4-b48f-ccd53bbcc45e)
+
+![2023 Las Vegas GP Qualifying - Max Verstappen vs George Russell](https://github.com/imranaqell/Formula-1-2023/assets/93969104/0eafdc58-f863-4428-8810-e9006efbe397)
+
+![2023 Las Vegas GP Qualifying - LEC](https://github.com/imranaqell/Formula-1-2023/assets/93969104/3559723c-b709-4ab5-86cf-16bcfcf80ee1)
