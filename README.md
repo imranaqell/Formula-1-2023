@@ -257,3 +257,7 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Las Vegas GP Qualifying - Max Verstappen vs George Russell](https://github.com/imranaqell/Formula-1-2023/assets/93969104/0eafdc58-f863-4428-8810-e9006efbe397)
 
 ![2023 Las Vegas GP Qualifying - LEC](https://github.com/imranaqell/Formula-1-2023/assets/93969104/3559723c-b709-4ab5-86cf-16bcfcf80ee1)
+
+![2023 Las Vegas GP Main Race - Top 10 Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/060ad8d9-d2c1-44c7-bef0-b81e97413dc9)
+
+![2023 Las Vegas GP Main Race - Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/32851e2c-81f5-4581-a3b7-fc20189aeb0e)
