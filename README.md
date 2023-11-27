@@ -261,3 +261,15 @@ I invite you to embark on an immersive journey through this repository, where my
 ![2023 Las Vegas GP Main Race - Top 10 Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/060ad8d9-d2c1-44c7-bef0-b81e97413dc9)
 
 ![2023 Las Vegas GP Main Race - Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/32851e2c-81f5-4581-a3b7-fc20189aeb0e)
+
+[**Abu Dhabi GP**](https://github.com/imranaqell/Formula-1-2023/tree/main/2023%20Abu%20Dhabi%20GP)
+
+![2023 Abu Dhabi GP Qualifying - Max Verstappen vs Charles Leclerc](https://github.com/imranaqell/Formula-1-2023/assets/93969104/929b7b6a-7ca5-4e37-be76-11a362a93c63)
+
+![2023 Abu Dhabi GP Qualifying - Oscar Piastri vs George Russell vs Lando Norris](https://github.com/imranaqell/Formula-1-2023/assets/93969104/99d5e665-e3c2-4134-bc52-45e058a59137)
+
+![2023 Abu Dhabi GP Qualifying - VER](https://github.com/imranaqell/Formula-1-2023/assets/93969104/1c08a8fa-d1ce-4324-b99c-973e809ca2e0)
+
+![2023 Abu Dhabi GP Main Race - Points Finisher Race Pace](https://github.com/imranaqell/Formula-1-2023/assets/93969104/7f4d5e43-8e07-4695-953d-3a8c0f6c5fae)
+
+![2023 Abu Dhabi GP Main Race - Tyre Strategy](https://github.com/imranaqell/Formula-1-2023/assets/93969104/8bda06d6-c50a-48f9-beb8-894db0041cb5)
